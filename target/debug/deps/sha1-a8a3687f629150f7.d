@@ -1,0 +1,10 @@
+/run/host/var/home/crb/Build/opendeck-akp03/darktable-plugin/target/debug/deps/sha1-a8a3687f629150f7.d: /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs
+
+/run/host/var/home/crb/Build/opendeck-akp03/darktable-plugin/target/debug/deps/libsha1-a8a3687f629150f7.rlib: /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs
+
+/run/host/var/home/crb/Build/opendeck-akp03/darktable-plugin/target/debug/deps/libsha1-a8a3687f629150f7.rmeta: /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs
+
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs:
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs:
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs:
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs:

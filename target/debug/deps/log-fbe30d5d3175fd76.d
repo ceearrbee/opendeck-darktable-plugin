@@ -1,0 +1,10 @@
+/run/host/var/home/crb/Build/opendeck-akp03/darktable-plugin/target/debug/deps/log-fbe30d5d3175fd76.d: /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/run/host/var/home/crb/Build/opendeck-akp03/darktable-plugin/target/debug/deps/liblog-fbe30d5d3175fd76.rlib: /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/run/host/var/home/crb/Build/opendeck-akp03/darktable-plugin/target/debug/deps/liblog-fbe30d5d3175fd76.rmeta: /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs:
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs:
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs:
+/var/home/crb/.toolbox/emacs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs:
